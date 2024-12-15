@@ -1,2 +1,13 @@
-# ApexPlanet-Web-Task4
-This repository contains a multi-page web application created as part of the Apex Planet Internship Task-4. The project showcases various components of a web application, including a homepage, portfolio, to-do list, and more. It also features custom styling, interactivity with JavaScript, and a responsive design.
+# Project Tasks
+
+This repository contains a multi-page web application that includes:
+
+- **Homepage**: Overview of the project.
+- **Portfolio**: A showcase of work.
+- **To-Do List**: Interactive task management tool.
+- **Products**: Display of product items.
+- **Groceries**: Grocery list example.
+- **Cart**: Shopping cart feature.
+
+## File Structure
+
