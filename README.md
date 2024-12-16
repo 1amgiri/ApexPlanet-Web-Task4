@@ -9,5 +9,4 @@ This repository contains a multi-page web application that includes:
 - **Groceries**: Grocery list example.
 - **Cart**: Shopping cart feature.
 
-## File Structure
 
